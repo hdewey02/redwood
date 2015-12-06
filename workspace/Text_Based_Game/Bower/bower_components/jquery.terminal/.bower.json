@@ -1,0 +1,12 @@
+{
+  "name": "jquery.terminal",
+  "_cacheHeaders": {
+    "Content-Length": "3036",
+    "Content-Type": "text/css"
+  },
+  "main": "index.css",
+  "_source": "http://terminal.jcubic.pl/css/jquery.terminal.css",
+  "_target": "*",
+  "_originalSource": "http://terminal.jcubic.pl/css/jquery.terminal.css",
+  "_direct": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "jquery.terminal-0.8.8.min",
+  "_cacheHeaders": {
+    "Content-Length": "77246",
+    "Content-Type": "application/javascript"
+  },
+  "main": "index.js",
+  "_source": "http://terminal.jcubic.pl/js/jquery.terminal-0.8.8.min.js",
+  "_target": "*",
+  "_originalSource": "http://terminal.jcubic.pl/js/jquery.terminal-0.8.8.min.js",
+  "_direct": true
+}

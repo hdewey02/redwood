@@ -1,0 +1,51 @@
+#winnerInput {
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+    font-size: 30pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#computerInput {
+    display: flex;
+    flex-flow: row;
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+    align-items: center;
+    justify-content: center;
+}
+
+#score {
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#userOptions {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#userOptions > .option {
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    flex: 1 1 100%;
+    max-width: 200px;
+    margin: 25px;
+    height: 88px;
+    border-radius: 15px;
+    border: 1px solid #999;
+    box-shadow: 0 12px 10px -8px rgba(0,0,0,0.25);
+    transition: all 0.15s ease-out;
+}
+
+#userOptions > .option:hover {
+    transform: scale(1.25);
+}
